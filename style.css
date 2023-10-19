@@ -1,0 +1,29 @@
+body{
+    background: url();
+}
+.topo{
+display: flex;
+gap: 540px;
+}
+.meio{
+    display: flex;
+    text-align: center;
+}
+.img1{
+    height: 49px;
+    width: 49px;
+}
+.img2{
+    height: 300px;
+    width: 500px;
+}
+.img3{
+    height: 300px;
+    width: 500px;
+}
+h1{
+    font-style: italic;
+}
+.titulo{
+    text-align: center;
+}
