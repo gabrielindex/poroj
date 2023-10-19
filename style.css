@@ -1,13 +1,15 @@
 body{
-    background: url();
+    background: url(animais-png-hd-8k-papel-de-parede-imagem-fotografica_890746-24228.jpg)
 }
-.topo{
+    .topo{
 display: flex;
-gap: 540px;
+gap: 818px;
 }
 .meio{
     display: flex;
     text-align: center;
+    font-family:'Dela Gothic One', cursive;
+    font-size: 25px;
 }
 .img1{
     height: 49px;
@@ -16,14 +18,21 @@ gap: 540px;
 .img2{
     height: 300px;
     width: 500px;
+    border-radius: 19px;
 }
 .img3{
     height: 300px;
     width: 500px;
+    border-radius: 19px;
 }
 h1{
     font-style: italic;
 }
+h2{
+    font-style: italic;
+}
 .titulo{
     text-align: center;
+    font-family:'Dela Gothic One', cursive;
+    font-size: 25px;
 }
