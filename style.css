@@ -1,9 +1,9 @@
 body{
-    background: url(animais-png-hd-8k-papel-de-parede-imagem-fotografica_890746-24228.jpg)
+    background: url(20210921121349-6149f6ad8ed93.webp)
 }
     .topo{
 display: flex;
-gap: 818px;
+gap: 850px;
 }
 .meio{
     display: flex;
@@ -12,8 +12,9 @@ gap: 818px;
     font-size: 25px;
 }
 .img1{
-    height: 49px;
-    width: 49px;
+    height: 53px;
+    width: 53px;
+    border-radius: 24px;
 }
 .img2{
     height: 300px;
